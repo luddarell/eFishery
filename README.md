@@ -8,7 +8,7 @@
 
 ### 2. 
 
-Answer in Soal2 Folder
+Answer in [Soal2](https://github.com/luddarell/eFishery/tree/main/Soal2) Folder
 
 This answer code using Python3 with some requirement Library you need to install : 
 - [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
@@ -18,10 +18,6 @@ This answer code using Python3 with some requirement Library you need to install
 - [Gensim](https://radimrehurek.com/gensim/parsing/preprocessing.html)
 
 To run this program, you must ensure that you have installed python version 3 and have installed some of the libraries listed above. Or you can run it interactively through the browser using [Google Colab.](https://colab.research.google.com/drive/15iVeg67DBmFbEWeJC5iA9V76EcoAikeo?usp=sharing)
-
-
-
-
 
 ### 3.
 ```
